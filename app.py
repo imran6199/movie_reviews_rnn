@@ -28,7 +28,7 @@ def clean_text(text):
 
 
 # ---- Streamlit UI ----
-st.title('Movie Review Sentiment (RNN)')
+st.title('Movie Reviews Sentiment Analysis (RNN)')
 st.write('Type or paste a movie review and click Predict.')
 
 
